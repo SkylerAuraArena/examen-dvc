@@ -6,8 +6,8 @@ from sklearn.model_selection import GridSearchCV
 from sklearn.impute import SimpleImputer
 from sklearn.pipeline import Pipeline
 
-X_train = pd.read_csv('data/processed_data/X_train_scaled.csv')
-y_train = pd.read_csv('data/processed_data/y_train.csv').values.ravel()
+X_train = pd.read_csv('data/processed_data/scalled_dataset/X_train_scaled.csv')
+y_train = pd.read_csv('data/processed_data/dataset/y_train.csv').values.ravel()
 
 # Créer un pipeline avec un imputer et le modèle Ridge
 pipeline = Pipeline([
@@ -28,8 +28,10 @@ grid_search.fit(X_train, y_train)
 best_params = grid_search.best_params_
 best_model = grid_search.best_estimator_
 
-os.makedirs('models', exist_ok=True)
-with open('models/best_model.pkl', 'wb') as file:
+output_dir = 'models/best_params'
+os.makedirs(output_dir, exist_ok=True)
+
+with open(f'{output_dir}/best_model.pkl', 'wb') as file:
     pickle.dump(best_model, file)
 
 print("Les meilleurs paramètres sont :", best_params)
