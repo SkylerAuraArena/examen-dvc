@@ -11,6 +11,7 @@ FEATURES_DIR="$(pwd)/src/features"        # Utiliser un chemin absolu pour évit
 
 python $FEATURES_DIR/preprocessing.py
 
+python $FEATURES_DIR/scalling.py
 
 echo "Traitement terminé avec succès."
 
