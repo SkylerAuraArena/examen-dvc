@@ -4,6 +4,9 @@ import os
 
 data = pd.read_csv('data/raw_data/raw.csv')
 
+# On supprime la colonne date qui n'est pas utile pour la prédiction
+data = data.drop(columns=['date'])
+
 X = data.iloc[:, :-1] 
 y = data.iloc[:, -1] 
 

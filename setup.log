@@ -1,3 +1,724 @@
 Les ensembles de données ont été créés et sauvegardés dans data/processed_data
 Les ensembles normalisés ont été sauvegardés dans data/processed_data
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+Les meilleurs paramètres sont : {'ridge__alpha': 0.1, 'ridge__solver': 'auto'}
+Le modèle optimisé a été sauvegardé dans models/best_model.pkl
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+Les meilleurs paramètres sont : {'memory': None, 'steps': [('imputer', SimpleImputer()), ('ridge', Ridge(alpha=0.1))], 'verbose': False, 'imputer': SimpleImputer(), 'ridge': Ridge(alpha=0.1), 'imputer__add_indicator': False, 'imputer__copy': True, 'imputer__fill_value': None, 'imputer__keep_empty_features': False, 'imputer__missing_values': nan, 'imputer__strategy': 'mean', 'ridge__alpha': 0.1, 'ridge__copy_X': True, 'ridge__fit_intercept': True, 'ridge__max_iter': None, 'ridge__positive': False, 'ridge__random_state': None, 'ridge__solver': 'auto', 'ridge__tol': 0.0001}
+Le modèle entraîné a été sauvegardé dans models/trained_model.pkl
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/impute/_base.py:598: UserWarning: Skipping features without any observed values: ['date']. At least one non-missing value is needed for imputation with strategy='mean'.
+  warnings.warn(
+Les prédictions ont été sauvegardées dans data/predictions/predictions.csv
+Les métriques d'évaluation ont été sauvegardées dans metrics/scores.json
+Traitement terminé avec succès.
+Les ensembles de données ont été créés et sauvegardés dans data/processed_data
+Les ensembles normalisés ont été sauvegardés dans data/processed_data
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/Users/thevault/Developer/Python/Projets/MLOPS/DVC_test/examen-dvc/venv/lib/python3.11/site-packages/sklearn/linear_model/_sag.py:349: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+Les meilleurs paramètres sont : {'ridge__alpha': 0.1, 'ridge__solver': 'auto'}
+Le modèle optimisé a été sauvegardé dans models/best_model.pkl
+Les meilleurs paramètres sont : {'memory': None, 'steps': [('imputer', SimpleImputer()), ('ridge', Ridge(alpha=0.1))], 'verbose': False, 'imputer': SimpleImputer(), 'ridge': Ridge(alpha=0.1), 'imputer__add_indicator': False, 'imputer__copy': True, 'imputer__fill_value': None, 'imputer__keep_empty_features': False, 'imputer__missing_values': nan, 'imputer__strategy': 'mean', 'ridge__alpha': 0.1, 'ridge__copy_X': True, 'ridge__fit_intercept': True, 'ridge__max_iter': None, 'ridge__positive': False, 'ridge__random_state': None, 'ridge__solver': 'auto', 'ridge__tol': 0.0001}
+Le modèle entraîné a été sauvegardé dans models/trained_model.pkl
+Les prédictions ont été sauvegardées dans data/predictions/predictions.csv
+Les métriques d'évaluation ont été sauvegardées dans metrics/scores.json
 Traitement terminé avec succès.

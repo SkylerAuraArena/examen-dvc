@@ -1,3 +1,6 @@
+# Avant propos : on peut lancer la pipeline incluant les 5 scripts demandés via la commande : bash setup.sh (depuis la racine)
+Le fichier setup.log récapitule les différentes étapes et les logs correspondants.
+
 # Examen DVC et Dagshub
 Dans ce dépôt vous trouverez l'architecture proposé pour mettre en place la solution de l'examen. 
 
