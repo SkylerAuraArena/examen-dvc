@@ -12,9 +12,12 @@ y = data.iloc[:, -1]
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
-X_train.to_csv('data/processed_data/X_train.csv', index=False)
-X_test.to_csv('data/processed_data/X_test.csv', index=False)
-y_train.to_csv('data/processed_data/y_train.csv', index=False)
-y_test.to_csv('data/processed_data/y_test.csv', index=False)
+output_dir = 'data/processed_data/dataset'
+os.makedirs(output_dir, exist_ok=True)
 
-print("Les ensembles de données ont été créés et sauvegardés dans data/processed_data")
+X_train.to_csv(f'{output_dir}/X_train.csv', index=False)
+X_test.to_csv(f'{output_dir}/X_test.csv', index=False)
+y_train.to_csv(f'{output_dir}/y_train.csv', index=False)
+y_test.to_csv(f'{output_dir}/y_test.csv', index=False)
+
+print("Les ensembles de données ont été créés et sauvegardés dans data/processed_data/dataset")
